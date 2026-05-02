@@ -1,0 +1,30 @@
+/* TEAM */
+Publisher: INSURANCE BILL HELP USA
+Project: Insurance Billing Help Guides
+Website: https://insurancebillhelp.github.io/
+
+/* SITE */
+Site Name: Progressive Guest Payment Guide
+URL: https://insurancebillhelp.github.io/progressive-guest-payment-/
+Focus: Guest Payment, Pay Without Login, One-Time Payment
+
+/* CONTENT */
+Description:
+Independent informational guide explaining how to pay Progressive Insurance bills without logging in using guest payment, quick pay, and one-time payment options.
+
+Topics Covered:
+- Progressive guest payment
+- Pay bill without login
+- One-time payment options
+- Quick pay methods
+- Billing help and payment confirmation
+
+/* TECHNOLOGY */
+Built With: HTML5, CSS3
+Hosting: GitHub Pages
+
+/* DISCLAIMER */
+This site is an independent informational resource and is not affiliated with Progressive Insurance.
+
+/* LAST UPDATED */
+2026-04

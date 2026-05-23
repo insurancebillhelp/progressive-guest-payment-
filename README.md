@@ -1,76 +1,116 @@
-# Progressive Guest Payment – Easy Bill Pay Without Login
+# Progressive Guest Payment – Pay Progressive Insurance Bill Without Login
+
+![banner](assets/progressive-payment-banner.png)
 
 [![HTML](https://img.shields.io/badge/-HTML-orange)](https://github.com/insurancebillhelp/progressive-guest-payment-)
-[![Progressive Guide Live](https://img.shields.io/badge/Live-Demo-blue)](https://insurancebillhelp.github.io/progressivebillpayguide/)
+[![Live Demo](https://img.shields.io/badge/Live-Demo-blue)](https://insurancebillhelp.github.io/progressivebillpayguide/)
+[![Contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](#contributing)
+[![Stars](https://img.shields.io/github/stars/insurancebillhelp/progressive-guest-payment-?style=social)](https://github.com/insurancebillhelp/progressive-guest-payment-/stargazers)
 
 ---
 
-A **simple guide** to pay your Progressive insurance bill securely **without logging in** using guest payment options.
+## Table of Contents
+
+- [About](#about)
+- [Live Demo](#live-demo)
+- [Screenshots](#screenshots)
+- [Features](#features)
+- [How To Use](#how-to-use)
+- [FAQ](#faq)
+- [Topics & Keywords](#topics--keywords)
+- [Related Projects](#related-projects)
+- [Contributing](#contributing)
+- [License](#license)
+- [Contact](#contact)
 
 ---
 
-## 🚀 Features
+## About
 
-- **Step-by-step instructions** to pay your Progressive bill as a guest (no login required)
-- Covers supported **payment methods**: card, bank account, etc.
-- **Troubleshooting:** solutions for common payment issues (failed/late/missing)
-- **Quick one-time payment** process
-- Mobile–friendly static HTML page – open in any web browser
+> **Best progressive guest payment guide** – Pay Progressive insurance bill without login through a secure, simple, mobile-friendly guest pay system. No password or registration required.
 
 ---
 
-## 🔗 Live Demo
+## Live Demo
 
-👉 **[Try the Guide Live on GitHub Pages](https://insurancebillhelp.github.io/progressivebillpayguide/)**
-
----
-
-## 📸 Screenshot Preview
-
-> _(Replace below image link with your own screenshot for better results)_
-
-![Progressive Guest Payment Guide Screenshot](https://via.placeholder.com/800x450?text=Add+your+screenshot+here)
+👉 [Try the Responsive Guide Live (GitHub Pages)](https://insurancebillhelp.github.io/progressivebillpayguide/)
 
 ---
 
-## 📂 How to Use
+## Screenshots
 
-1. Clone or download this repo—**no login needed!**
-2. Open `index.html` directly in your browser.
-3. Follow the on-page steps for Progressive guest payment.
+![Progressive Guest Payment Guide Screenshot](assets/progressive-guest-payment-screenshot.png)
 
 ---
 
-## 🏷️ Topics & Keywords
+## Features
 
-progressive, progressive guest payment, insurance payment, online bill pay, pay without login, static HTML, quick pay, billhelp, easy payment, insurancebillhelp
-
----
-
-## 📃 More Information
-
-- For advanced options, visit the [Full Billing Guide](https://insurancebillhelp.github.io/progressivebillpayguide/)
-- Related help articles:
-  - [Payment Not Posted](#)
-  - [Late Payment](#)
-  - [Pay by Phone](#)
+- Pay Progressive bill as a **guest** (no login needed)
+- Step-by-step instructions for **quick one-time payment**
+- Supported **payment methods:** Card, Bank account
+- Handles **failed, late, or missing payment issues** (with solutions)
+- Mobile–friendly static HTML
+- **FAQ and troubleshooting section** included
 
 ---
 
-## 🤝 Contributing
+## How To Use
 
-Pull requests welcome! Please open an issue for suggestions or problems.
-
----
-
-## 🛡️ Disclaimer
-
-This project is **not affiliated with Progressive Insurance**.  
-Content is for informational purposes only—always verify details with official sources.
+1. Download or clone the repo:
+   ```sh
+   git clone https://github.com/insurancebillhelp/progressive-guest-payment-
+   ```
+2. Open `index.html` in any browser (no local server required!)
+3. Follow the on-screen instructions
 
 ---
 
-## 🏢 Publisher & Contact
+## FAQ
+
+**Q: Do I need a Progressive login to pay?**  
+A: No, just use the guest payment link and your policy details.
+
+**Q: What if my payment is not showing?**  
+A: See the troubleshooting section in this guide.
+
+**Q: Is this official?**  
+A: This project is not affiliated with Progressive, only provides a public informational guide.
+
+...
+
+---
+
+## Topics & Keywords
+
+progressive guest payment, pay progressive insurance bill, pay insurance without login, quick pay progressive, insurance, html, github-pages, guest payment
+
+---
+
+## Related Projects
+
+- [Full Progressive Bill Pay Guide](https://insurancebillhelp.github.io/progressivebillpayguide/)
+
+---
+
+## Contributing
+
+Contributions, issues, and feature requests welcome!
+
+---
+
+## License
+
+MIT
+
+---
+
+## Contact
 
 **insurancebillhelp**  
-Questions? Raise an issue or [contact the author via GitHub](https://github.com/insurancebillhelp).
+Raise an issue, discussion, or [connect via GitHub](https://github.com/insurancebillhelp).
+
+---
+
+## Disclaimer
+
+Not affiliated with Progressive Insurance – for educational and informational use only.
